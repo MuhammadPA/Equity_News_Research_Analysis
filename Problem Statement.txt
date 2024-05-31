@@ -1,0 +1,5 @@
+In today's dynamic financial markets, research analysts face the challenge of efficiently processing vast amounts of equity news to extract 
+valuable insights for informed decision-making. However, the sheer volume and complexity of available data make this process time-consuming and prone to oversight. 
+To address this issue, there is a need for an advanced Language Model (LLM) tool tailored specifically for Equity News Research analysis. 
+This tool should be capable of comprehensively analyzing equity news articles, identifying relevant information, detecting market sentiment, 
+and providing concise summaries and actionable insights to empower research analysts in making well-informed investment decisions efficiently.
